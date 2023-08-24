@@ -1,1 +1,5 @@
-# newlog
+james
+smith
+jonah
+mark
+long
